@@ -1,4 +1,5 @@
 # 📃 Todo App | A To-Do List to Organize Your Work & Life
+## https://itshliakhov.github.io/todo-app/
 
 ### 🛠 Technologies I used:
 * JavaScript
@@ -8,4 +9,4 @@
 
 ### 🧰 Project features:
 * Responsive
-* LocalStorage included# todo-app
+* LocalStorage included
